@@ -24,15 +24,146 @@ header {
 }
 
 main{
-    background-color: rgb(192, 18, 134);
+    background-color: aliceblue;
     grid-column: 1/2;
     grid-row: 2/3;
     justify-content: center;
+    display: flex;
+}
+
+.filmes{
+    background-color: #ffaec8;
+    width: 1000px;
+    height: 400px;
+    border: 6px solid #f35b7e;
+    margin-top: 85px;
+    border-radius: 50px;
 
 }
+
+
 
 footer{
     background-color: #ffaec8;
     grid-column: 1/2;
     grid-row: 3/4;
+}
+
+aside{
+    grid-column: 2/3;
+    grid-row: 2/4;
+    justify-content: flex-end;
+    display: flex;
+    align-items: flex-end;
+    
+
+}
+
+
+.tabela{
+    background-color: aliceblue;
+    width: 300px;
+    height: 700px; 
+    border: 6px solid #f35b7e;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.tabela1{
+
+    background-color:#ffaec8;
+    width: 300px;
+    height: 100px;
+    border:6px solid #f35b7e;
+    border-radius: 50px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.tabela2{
+
+    background-color:aliceblue;
+    width: 300px;
+    height: 100px;
+    border:6px solid #f35b7e;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.tabela3{
+
+    background-color:#ffaec8;
+    width: 300px;
+    height: 100px;
+    border:6px solid #f35b7e;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.tabela4{
+
+    background-color:aliceblue;
+    width: 300px;
+    height: 100px;
+    border:6px solid #f35b7e;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.tabela5{
+
+    background-color:#ffaec8;
+    width: 300px;
+    height: 100px;
+    border:6px solid #f35b7e;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.tabela6{
+
+    background-color:aliceblue;
+    width: 300px;
+    height: 100px;
+    border:6px solid #f35b7e;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.tabela7{
+    background-color:#ffaec8;
+    width: 300px;
+    height: 100px;
+    border:6px solid #f35b7e;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
